@@ -1,12 +1,12 @@
 {
-  "name": "TG File Share/Sharing Bot",
+  "name": "TBMC STORE BOT V3"
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "hhttps://github.com/toontamizh2/TBMC4GBFILESTORENEWBOT",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
